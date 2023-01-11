@@ -1,0 +1,4 @@
+- plot dot by "Product sold", "Rating", "Number of comments"
+  + show some name at top 10, last 10...
+  + color by parent category (male/female)
+
