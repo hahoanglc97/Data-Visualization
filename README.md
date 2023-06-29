@@ -22,29 +22,29 @@
 - Visualize data
 
 - Ratio of categories
-![alt Ratio of categories](/Project/piechar.png) 
+![alt Ratio of categories](/piechar.png) 
 
 - Rating of categories
-![alt Rating of categories](/Project/rating.png) 
+![alt Rating of categories](/rating.png) 
 
 - Price of categories
-![alt Price of categories](/Project/Price.jpeg) 
+![alt Price of categories](/Price.jpeg) 
 
 - Number of product sold of categories
-![alt Price of categories](/Project/ProductSold.jpeg) 
+![alt Price of categories](/ProductSold.jpeg) 
 
 - Correlation Heatmap
-![alt Correlation Heatmap](/Project/heatmap.png) 
+![alt Correlation Heatmap](/heatmap.png) 
 
 4. Modeling
 - Relationship between Total rating and product sold
-![alt Relationship between Total rating and product sold](/Project/newplot.png) 
+![alt Relationship between Total rating and product sold](/newplot.png) 
 
 - Apply 3 machine learning algorithms: Linear Regression, Descision Tree and XGBoost
 
     + Using cross validation with k-fold = 5 to evaluate dataset
 
-![alt Modeling](/Project/model.png) 
+![alt Modeling](/model.png) 
 
 ## Conclusion
 - Through this project, we were able to practice and understand more about data collection and processing to better understand the data and derive knowledge from that data.
